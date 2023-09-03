@@ -1,1 +1,4 @@
-
+break:jump out one circle
+continue:one more turn
+return:break out this function
+exit:quit this procedure
