@@ -1,4 +1,4 @@
-break:jump out one circle
+break:jump out  of the circle
 continue:one more turn
 return:break out this function
 exit:quit the whole procedure
